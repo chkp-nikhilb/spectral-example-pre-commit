@@ -9,7 +9,7 @@ We're going to be using the Spectral pre-commit hook that runs the Spectral exec
 Try this:
 
 ```
-$ echo "AKIA4HKD3VF23AEA7KWV" > secret.txt
+$ echo "AKIA4HKD3VF23AEA7KWVY" > secret.txt
 $ git add .
 $ pre-commit run
 ```
